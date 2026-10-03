@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of dhtml/composer.** Not for installation: use [Packagist](https://packagist.org/packages/dhtml/composer) or the [upstream repository](https://github.com/dhtml/composer).
 
-**0** versions archived · Latest: [`2.1.5`](https://github.com/flarchive/dhtml-composer/tree/archive/v2.1.5) · License: `MIT` · Flarum: `^1.8`
+**14** versions archived · Latest: [`2.1.5`](https://github.com/flarchive/dhtml-composer/tree/archive/v2.1.5) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2024-06-04 | `^1.2.0` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.0) |
+| `0.1.2` | 2024-06-04 | `^1.2.0` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.2) |
+| `0.1.3` | 2024-06-04 | `^1.2.0` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.3) |
+| `0.1.4` | 2024-06-04 | `^1.8.3` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.4) |
+| `0.1.5` | 2024-06-04 | `^1.8.3` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.5) |
+| `0.1.6` | 2024-06-04 | `^1.8.3` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.6) |
+| `0.1.7` | 2024-06-04 | `^1.8.3` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.7) |
+| `0.1.8` | 2024-06-04 | `^1.8.3` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v0.1.8) |
+| `2.0.0` | 2024-06-05 | `^1.8` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v2.0.0) |
+| `2.1.0` | 2024-06-05 | `^1.8` | [Browse](https://github.com/flarchive/dhtml-composer/tree/archive/v2.1.0) |
+
+[View all 14 versions](https://github.com/flarchive/dhtml-composer/tags)
 
 Catalog entry: [packages/dhtml-composer.json](https://github.com/flarchive/archive-index/blob/main/packages/dhtml-composer.json)
 
